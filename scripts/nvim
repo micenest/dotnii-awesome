@@ -1,0 +1,3 @@
+kitty @ set-colors background="#192033"
+nvim $1
+kitty @ set-colors background="#180c0c"
