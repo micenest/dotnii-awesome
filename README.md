@@ -9,6 +9,6 @@ Although it's for the most part stable, this project is no longer maintained.
 </i>
 </h4>
 <br>
-<p>Makes usage of libraries such as grenzionky's fork of <a href="http://github.com/grenzionky/awesome-switcher">awesome-switcher</a> for alt-tab functionalities.</p> 
+<p align=center>Makes usage of libraries such as grenzionky's fork of <a href="http://github.com/grenzionky/awesome-switcher">awesome-switcher</a> for alt-tab functionalities.</p> 
 <br>
-<p>Special thanks to <a href="https://github.com/elenapan/">elenapan</a> for helping me during the development of this project while it was still active.</p>
+<p align=center>Special thanks to <a href="https://github.com/elenapan/">elenapan</a> for helping me during the development of this project while it was still active.</p>
